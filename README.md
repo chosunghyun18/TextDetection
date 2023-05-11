@@ -2,7 +2,7 @@
 
 # TextDetection
 
-Amazon Recognition - TextDetection
+Amazon Rekognition - TextDetection
 
 1. requirements.txt 파일을 만들고 필요한 라이브러리들을 입력
 

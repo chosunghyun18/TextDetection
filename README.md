@@ -1,0 +1,2 @@
+# TextDetection
+Amazon Rekognition - TextDetection
